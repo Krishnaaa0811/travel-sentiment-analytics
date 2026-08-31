@@ -6,6 +6,7 @@ venv/
 .DS_Store
 
 data/raw/*.csv
+data/raw/*.zip
 data/cleaned/*.csv
 data/processed/*.csv
 
