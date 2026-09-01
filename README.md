@@ -59,28 +59,24 @@ The dataset contains information including:
 
 ## Project Structure
 
-## Project Structure
-
+```text
 travel-sentiment-analytics/
 │
 ├── data/
 │   ├── raw/
 │   ├── cleaned/
-│   ├── processed/
-│   └── external/
+│   └── processed/
 │
 ├── notebooks/
 │   ├── 01_data_collection.ipynb
 │   ├── 02_data_cleaning.ipynb
-│   └── 03_data_preprocessing.ipynb
-│
-├── src/
-│   ├── preprocessing/
-│   └── utils/
+│   ├── 03_data_preprocessing.ipynb
+│   └── 04_exploratory_data_analysis.ipynb
 │
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
@@ -196,15 +192,21 @@ Additional technologies may be added as the project progresses.
 
 ### 1. Clone the Repository
 
-git clone <repository-url>
+```bash
+git clone https://github.com/Krishnaaa0811/travel-sentiment-analytics.git
+```
 
 ### 2. Navigate to the Project Directory
 
+```bash
 cd travel-sentiment-analytics
+```
 
 ### 3. Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Dataset Setup
 
