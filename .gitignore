@@ -11,3 +11,4 @@ data/cleaned/*.csv
 data/processed/*.csv
 
 models/*.pkl
+power Bi/Hotel_Travel_Analytics.pbix
