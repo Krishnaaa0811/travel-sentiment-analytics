@@ -1,0 +1,127 @@
+Category,Value,Sentiment,Reviews
+Rating_Sentiment,Negative,Negative,24241
+Rating_Sentiment,Negative,Neutral,5140
+Rating_Sentiment,Negative,Positive,23035
+Rating_Sentiment,Neutral,Negative,29032
+Rating_Sentiment,Neutral,Neutral,12004
+Rating_Sentiment,Neutral,Positive,86405
+Rating_Sentiment,Positive,Negative,55380
+Rating_Sentiment,Positive,Neutral,19486
+Rating_Sentiment,Positive,Positive,260489
+Review_Month,2015-08,Negative,4707
+Review_Month,2015-08,Neutral,1438
+Review_Month,2015-08,Positive,13142
+Review_Month,2015-09,Negative,4885
+Review_Month,2015-09,Neutral,1661
+Review_Month,2015-09,Positive,13143
+Review_Month,2015-10,Negative,4852
+Review_Month,2015-10,Neutral,1588
+Review_Month,2015-10,Positive,13009
+Review_Month,2015-11,Negative,4291
+Review_Month,2015-11,Neutral,1403
+Review_Month,2015-11,Positive,12345
+Review_Month,2015-12,Negative,4139
+Review_Month,2015-12,Neutral,1340
+Review_Month,2015-12,Positive,12435
+Review_Month,2016-01,Negative,4198
+Review_Month,2016-01,Neutral,1387
+Review_Month,2016-01,Positive,13911
+Review_Month,2016-02,Negative,3707
+Review_Month,2016-02,Neutral,1367
+Review_Month,2016-02,Positive,13762
+Review_Month,2016-03,Negative,4002
+Review_Month,2016-03,Neutral,1404
+Review_Month,2016-03,Positive,15316
+Review_Month,2016-04,Negative,4057
+Review_Month,2016-04,Neutral,1416
+Review_Month,2016-04,Positive,15998
+Review_Month,2016-05,Negative,4568
+Review_Month,2016-05,Neutral,1611
+Review_Month,2016-05,Positive,16876
+Review_Month,2016-06,Negative,4119
+Review_Month,2016-06,Neutral,1307
+Review_Month,2016-06,Positive,15494
+Review_Month,2016-07,Negative,5224
+Review_Month,2016-07,Neutral,1693
+Review_Month,2016-07,Positive,18948
+Review_Month,2016-08,Negative,5298
+Review_Month,2016-08,Neutral,1874
+Review_Month,2016-08,Positive,20080
+Review_Month,2016-09,Negative,4731
+Review_Month,2016-09,Neutral,1649
+Review_Month,2016-09,Positive,16272
+Review_Month,2016-10,Negative,5137
+Review_Month,2016-10,Neutral,1772
+Review_Month,2016-10,Positive,17415
+Review_Month,2016-11,Negative,3684
+Review_Month,2016-11,Neutral,1313
+Review_Month,2016-11,Positive,12903
+Review_Month,2016-12,Negative,4535
+Review_Month,2016-12,Neutral,1614
+Review_Month,2016-12,Positive,15511
+Review_Month,2017-01,Negative,4618
+Review_Month,2017-01,Neutral,1573
+Review_Month,2017-01,Positive,16434
+Review_Month,2017-02,Negative,3928
+Review_Month,2017-02,Neutral,1321
+Review_Month,2017-02,Positive,14252
+Review_Month,2017-03,Negative,4153
+Review_Month,2017-03,Neutral,1422
+Review_Month,2017-03,Positive,14778
+Review_Month,2017-04,Negative,4366
+Review_Month,2017-04,Neutral,1467
+Review_Month,2017-04,Positive,15553
+Review_Month,2017-05,Negative,4883
+Review_Month,2017-05,Neutral,1657
+Review_Month,2017-05,Positive,16862
+Review_Month,2017-06,Negative,4640
+Review_Month,2017-06,Neutral,1483
+Review_Month,2017-06,Positive,15813
+Review_Month,2017-07,Negative,5132
+Review_Month,2017-07,Neutral,1566
+Review_Month,2017-07,Positive,16704
+Review_Month,2017-08,Negative,799
+Review_Month,2017-08,Neutral,304
+Review_Month,2017-08,Positive,2973
+Review_Year,2015,Negative,22874
+Review_Year,2015,Neutral,7430
+Review_Year,2015,Positive,64074
+Review_Year,2016,Negative,53260
+Review_Year,2016,Neutral,18407
+Review_Year,2016,Positive,192486
+Review_Year,2017,Negative,32519
+Review_Year,2017,Neutral,10793
+Review_Year,2017,Positive,113369
+City,Amsterdam,Negative,11287
+City,Amsterdam,Neutral,3747
+City,Amsterdam,Positive,42399
+City,Barcelona,Negative,12005
+City,Barcelona,Neutral,3854
+City,Barcelona,Positive,44290
+City,London,Negative,56225
+City,London,Neutral,19372
+City,London,Positive,186701
+City,Milan,Negative,8435
+City,Milan,Neutral,2803
+City,Milan,Positive,25966
+City,Paris,Negative,12521
+City,Paris,Neutral,4354
+City,Paris,Positive,42316
+City,Vienna,Negative,8180
+City,Vienna,Neutral,2500
+City,Vienna,Positive,28257
+Reviewer_Type,First-Time Reviewer,Negative,33070
+Reviewer_Type,First-Time Reviewer,Neutral,11112
+Reviewer_Type,First-Time Reviewer,Positive,110324
+Reviewer_Type,Repeat Reviewer,Negative,75583
+Reviewer_Type,Repeat Reviewer,Neutral,25518
+Reviewer_Type,Repeat Reviewer,Positive,259605
+Trip_Type,Business trip,Negative,20849
+Trip_Type,Business trip,Neutral,6796
+Trip_Type,Business trip,Positive,55208
+Trip_Type,Leisure trip,Negative,84112
+Trip_Type,Leisure trip,Neutral,28479
+Trip_Type,Leisure trip,Positive,304764
+Trip_Type,Unknown,Negative,3692
+Trip_Type,Unknown,Neutral,1355
+Trip_Type,Unknown,Positive,9957
