@@ -4,7 +4,7 @@ An end-to-end analytics project that measures guest sentiment in 515,212 Europea
 
 **[Live app](https://travel-sentiment-analytics-fcapeck7aedpsakimdss4q.streamlit.app/)** · **[Power BI file (.pbix)](https://drive.google.com/file/d/1sLpDbXpanIikK5XZpEz9b9R4nVCDZgzp/view?usp=sharing)**
 
-![Dashboard overview](travel_app/assets/dashboard/2_Overview.png)
+![Dashboard cover](travel_app/assets/dashboard/1_Cover.png) 
 
 ## Problem Statement
 
@@ -86,6 +86,8 @@ The ML model beats the baseline by about 8 points, but it is weaker on Neutral (
 ## Power BI Dashboard
 
 The dashboard was built from business questions to KPIs to visuals, and has 7 pages: Cover, Overview, Sentiment & AI, Destinations, Travellers & Trips, Time & Trends and Insights. Screenshots of every page are in `travel_app/assets/dashboard/`.
+
+![Dashboard insights](travel_app/assets/dashboard/7_Insights.png)
 
 Interactive file: [Download the .pbix](https://drive.google.com/file/d/1sLpDbXpanIikK5XZpEz9b9R4nVCDZgzp/view?usp=sharing). Google Drive cannot preview `.pbix` files, so download it and open it in Power BI Desktop (Windows only). In Desktop, Ctrl + click the sentiment chips.
 
